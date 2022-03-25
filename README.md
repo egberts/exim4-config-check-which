@@ -1,4 +1,4 @@
-# exim4-config-check-which
+# exim4-config-check-which [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d840f886c4bd4edc059706d09c6a1586111c540b)](https://www.codacy.com/app/c_sharp/vault-php?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=egberts/exim4-config-check-which&amp;utm_campaign=Badge_Grade)
 Setting up Exim4 mail server?  
 
 Got tired of guessing WHICH file to edit?  
