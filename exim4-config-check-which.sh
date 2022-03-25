@@ -25,6 +25,12 @@ if [ "$ID" != 'debian' ] && [ "$ID" != 'devuan' ]; then
   exit 1
 fi
 
+FOUND_BIN="$(which exim4)"
+if [ -z "$FOUND_BIN" ]; then
+  echo "Exim4 binary is not found; aborted."
+  exit 1
+fi
+
 echo "Compiled-in config lookup sequence by ${EXIM_BIN_FILESPEC}:"
 exim4 -bV | grep "Configuration file"
 
