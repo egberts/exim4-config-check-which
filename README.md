@@ -1,4 +1,4 @@
-# exim4-config-check-which 
+# exim4-config-check-which [![Codacy Badge](https://app.codacy.com/project/badge/Grade/efdadac7620b466fbabe127b20df03fd)](https://www.codacy.com/gh/egberts/exim4-config-check-which/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=egberts/exim4-config-check-which&amp;utm_campaign=Badge_Grade)
 
 Setting up Exim4 mail server?  
 
