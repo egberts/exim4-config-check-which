@@ -1,14 +1,11 @@
 # exim4-config-check-which
-Determine which set of configuration files are being used by Exim4 mail server on Debian OS distro.
-
 Setting up Exim4 mail server?  
 
 Got tired of guessing WHICH file to edit?  
 
 Even after reading the 'man update-exim4.conf' manpage ... repeatedly?
 
-This helpful but informative script will tell you which config file(s) are being
-used for your current setup; only works on Debian OS distro.  Even errors out nicely otherwise.
+This will help you determine which set of configuration files are being used by Exim4 mail server on your Debian OS distro.
 
 Weird Naming Convention
 =======================
